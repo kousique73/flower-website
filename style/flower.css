@@ -153,6 +153,56 @@ font-weight: 800;
 }
 
 
+/* cupon section  */
+
+.cupon{
+
+    background-image: url("/Flower\ Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    margin: 200px 250px;
+}
+
+.cupon-item{
+    text-align: center;
+    top: 30%;
+    position: relative;
+}
+
+.cupon-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+.cupon-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+
+
+}
+.email-box{
+    border-radius: 8px;
+    background: #FFF;
+    width: 37%;
+padding: 20px;
+border: none;
+
+
+
+
+
+}
+
+
+
+
+
 
 
 
