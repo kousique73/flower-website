@@ -129,4 +129,30 @@ font-weight: 800;
 
 }
 
+/* instagram section  */
+.insta{
+    margin-top: 200px;
+}
+
+.insta-pic{
+    align-items: center;
+    display: flex;
+    justify-content:space-around;
+}
+.insta-title{
+    margin: auto;
+    width: 700px;
+    text-align: center;
+}
+.insta-description{
+    margin-top: 40px;
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
 
