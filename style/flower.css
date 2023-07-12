@@ -192,12 +192,42 @@ line-height: 30px;
     width: 37%;
 padding: 20px;
 border: none;
+}
 
+/* footer section  */
+.footer{
+   display: flex;
+   background: #111010;
+   align-items: center;
+   text-align: center;
+   height: 500px;
+}
 
+.footer-items{
+    width: 100%;
+}
+.footer-title{
 
-
+    color: #FFF;
+    margin: 40px 0;
 
 }
+.footer-title-color{
+    color: #E55473;
+}
+.footer-description{
+    color:rgba(255, 255, 255, 0.90);
+    margin: 20px 0;
+
+}
+.warning{
+
+    color: rgba(255, 255, 255, 0.40);
+}
+
+
+
+
 
 
 
