@@ -49,15 +49,26 @@ border-radius: 9px;
     margin-top: 150px;
     margin: auto;
 }
+/* .margin{
+  margin: top 200px;
 
+
+} */
+.problem{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
 .item-title {
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 24px;
-    font-style: normal;
-    font-weight: 700;
+     font-weight: 700;
     line-height: 35px;
+    display: flex;
+    justify-content: space-between;
     
    }
 
